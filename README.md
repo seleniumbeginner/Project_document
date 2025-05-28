@@ -7,6 +7,7 @@
 ### Project Overview
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analysing various aspects of the sales data,
 we seek to identify trends, make data-driven recommendations, and gain a deeper undestanding of the company's performance.
+![Screenshot 2025-05-25 211830](https://github.com/user-attachments/assets/5bd90e1b-2751-4e18-8515-a403a56f76f3)
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
